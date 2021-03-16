@@ -108,19 +108,7 @@ b.	All contributions to the Project are subject to the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;vi.	The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
 
-&nbsp;&nbsp;&nbsp;&nbsp;i. All new inbound code contributions to the Project must be made using the Apache License, Version 2.0, available at [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) (the "Project License").
-
-&nbsp;&nbsp;&nbsp;&nbsp;ii. All new inbound code contributions must also be accompanied by a Apache Contributor License Agreement ([https://www.apache.org/licenses/contributor-agreements.html#clas](https://www.apache.org/licenses/contributor-agreements.html#clas)) in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;
-
-&nbsp;&nbsp;&nbsp;&nbsp;iii. All outbound code will be made available under the Project License.
-
-&nbsp;&nbsp;&nbsp;&nbsp;iv. Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)).
-
-&nbsp;&nbsp;&nbsp;&nbsp;v. The Project may seek to integrate and contribute back to other open source projects ("Upstream Projects"). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.
-
-c. The TSC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire TSC.
-
-d. Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
+c. Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
 ## 9. Amendments
 
