@@ -30,7 +30,7 @@ d.	Participation in the Project through becoming a Contributor and Committer is 
 
 e.	The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
-f.	The TSC may elect a TSC Chair from among its membership, who will preside over meetings of the TSC and will serve until the earlier of: (1) the Chair’s resignation; or (2) the Chair’s replacement by the TSC (either by majority vote or through an election process approved by the TSC).
+f.	The TSC may elect a TSC Chair from among its membership, who will preside over meetings of the TSC and will serve until the earlier of: (1) the Chair’s resignation; or (2) the Chair’s replacement by the TSC (either by majority vote or through an election process approved by the TSC); or (3) a term of (1) year.
 
 g.	Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
 
@@ -51,6 +51,11 @@ g.	Responsibilities: The TSC will be responsible for all aspects of oversight re
 &nbsp;&nbsp;&nbsp;&nbsp;viii. discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;ix. coordinating any marketing, events, or communications regarding the Project.
+
+h. The TSC shall also form an advisory committee to help in driving the longer term technical vision of the project (the “Technical Advisory Committee”). 
+
+i. The TSC Chair, or any other TSC or Technical Advisory Committee member so designated by the TSC, will serve as the primary communication contact between the Project and the Magma Core Foundation Fund Governing Board of the Linux Foundation ("Governing Board").
+
 
 ## 3. TSC Voting
 
